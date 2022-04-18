@@ -1,0 +1,3 @@
+Matrix merupakan sebuah kumpulan angka atau bilangan yang disusun berdasarkan baris dan kolom,
+yang ditempatkan didalam tanda kurung siku. Array berguna untuk menampung data yang dikirimkan dari matrix,
+yang kemudian di proses oleh memori utama sebagai sebuah program.
